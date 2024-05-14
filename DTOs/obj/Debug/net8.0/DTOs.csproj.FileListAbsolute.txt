@@ -1,0 +1,11 @@
+E:\ECommerce-Web API\DTOs\bin\Debug\net8.0\DTOs.deps.json
+E:\ECommerce-Web API\DTOs\bin\Debug\net8.0\DTOs.dll
+E:\ECommerce-Web API\DTOs\bin\Debug\net8.0\DTOs.pdb
+E:\ECommerce-Web API\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+E:\ECommerce-Web API\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+E:\ECommerce-Web API\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+E:\ECommerce-Web API\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+E:\ECommerce-Web API\DTOs\obj\Debug\net8.0\DTOs.dll
+E:\ECommerce-Web API\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+E:\ECommerce-Web API\DTOs\obj\Debug\net8.0\DTOs.pdb
+E:\ECommerce-Web API\DTOs\obj\Debug\net8.0\ref\DTOs.dll
